@@ -39,6 +39,6 @@ ctrl+B
 ===8. 下载运行===
 使用dnw.exe下载Debug/SmileOS.hex到0x30000000地址处运行
 
-===9. 导入Eclipse风格文件
+===9. 导入Eclipse风格文件===
 为了在Eclipse下更好地阅读及修改代码,强烈建议导入我配制的Eclipse风格文件
 http://smileos.googlecode.com/files/SmileOS.epf
