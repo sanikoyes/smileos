@@ -20,6 +20,8 @@
 ===4. 安装arm-none-eabi-gcc编译器===
 网址：http://www.yagarto.de/download/yagarto/yagarto-bu-2.21_gcc-4.6.2-c-c++_nl-1.19.0_gdb-7.3.1_eabi_20111119.html
 
+请不要安装在路径有空格的目录！
+
 下载并安装这个文件：yagarto-bu-2.21_gcc-4.6.2-c-c%2B%2B_nl-1.19.0_gdb-7.3.1_eabi_20111119.exe
 
 网址：http://www.yagarto.de/download/yagarto/yagarto-tools-20100703-setup.exe
